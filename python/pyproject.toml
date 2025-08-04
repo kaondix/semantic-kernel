@@ -65,7 +65,7 @@ autogen = [
     "autogen-agentchat >= 0.2, <0.4"
 ]
 aws = [
-    "boto3>=1.36.4,<1.39.0",
+    "boto3>=1.36.4,<1.41.0",
 ]
 # This is temporary to get the PR reviewed, and will be replaced when their new version is public.
 azure = [
